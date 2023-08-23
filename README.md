@@ -6,7 +6,7 @@
 
 🧠 **Frameworks & Frontend:** Kotlin Multiplatform Mobile, Jetpack Compose, SwiftUI, React, Flutter, NextJs, XML, TailwindCSS
 
-💻 **Backend:** Ktor, NodeJs, Firebase, Java
+💻 **Backend:** Ktor, NodeJs, Firebase
 
 🔧 **Languages:** Kotlin, Java, Swift, JavaScript, TypeScript
 
