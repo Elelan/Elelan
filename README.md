@@ -1,6 +1,8 @@
 # Elelan Vickneshvararajah
 
-### Senior Software Engineer Mobile
+**Passionate software engineer with a knack for building intuitive and performant mobile and web applications.**
+
+### Senior Software Engineer
 
 📱 **Proficient in:** Java, Kotlin, ReactJs, NextJs, NodeJs, Swift, SwiftUI, Jetpack Compose, Ktor, Kotlin Multiplatform, TypeScript
 
@@ -12,15 +14,17 @@
 
 🗄️ **Databases:** SQLite, Room, SQLDelight, MongoDB, MySQL, Firestore, Firebase Realtime Database
 
-🚀 **Platforms & Services:** Firebase, CircleCI, GitHub Actions, Heroku, AWS EC2, GitLab, BitBucket, Vercel
+🚀 **Platforms & Services:** Firebase, Vercel, CircleCI, GitHub Actions, Heroku, AWS EC2, GitLab, BitBucket, Vercel
 
 📚 **Architecture Patterns:** MVC, MVP, Clean Architecture
 
 🎓 **Education:** BSc Applied Sciences, Wayamba University of Sri Lanka
 
-💼 **Work Experience:** EFutures Pvt Ltd, Melstasoft, Bellvantage Pvt Ltd
+💼 **Work Experience:** Sysco Labs | EV Technologies Pvt Ltd | EFutures Pvt Ltd | Bellvantage Pvt Ltd
 
 🌐 **Interests:** Exploring the latest technologies in mobile/web development, GPT-4, AI, Witcher 3 fan
+
+### View my full resume here: [elelan.dev](https://elelan.dev/)
 
 ### Connect with me:
 
